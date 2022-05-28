@@ -1,4 +1,4 @@
-[![Jame Inw, I’m currently learning Golang, Lua, K8S](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%E2%80%99m%20currently%20learning%20Golang%2C%20Lua%2C%20K8S&title=Jame%20Inw)](https://pimp-my-readme.webapp.io)
+[![Jame Inw, EncapDOT1Q](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=EncapDOT1Q&title=Jame%20Inw)](https://pimp-my-readme.webapp.io)
 - 👋 Hi, I’m @JameInw
 - 👀 I’m interested in Docker and K8S
 - 🌱 I’m currently learning Golang,Lua,K8S
