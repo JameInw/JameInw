@@ -1,10 +1,12 @@
-[![Jame Inw, EncapDOT1Q](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=EncapDOT1Q&title=Jame%20Inw)](https://pimp-my-readme.webapp.io)
+[![Jame Inw, SYSTEM ENGINEER AND VOIP DEVELOPER](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=SYSTEM%20ENGINEER%20AND%20VOIP%20DEVELOPER&title=Jame%20Inw)](https://pimp-my-readme.webapp.io)
 
 <!--- 👋 Hi, I’m @JameInw
 - 👀 I’m interested in Docker and K8S
 - 🌱 I’m currently learning Golang,Lua,K8S
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
+
+Hello, my nickname is James, currently working at Spinsoft Company, my position is System Engineer. configuration Server and then developed in the IPPBX system. Related systems are Asterisk, Kamailio, docker, rtpengine, ELK stack. Can work as a team well. Learn quickly and be able to withstand hard work. I am constantly improving myself and I am always learning new things.
 
 <!---
 JameInw/JameInw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
