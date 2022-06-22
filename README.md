@@ -1,4 +1,6 @@
-[![Jame Inw, SYSTEM ENGINEER AND VOIP DEVELOPER](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=SYSTEM%20ENGINEER%20AND%20VOIP%20DEVELOPER&title=Jame%20Inw)](https://pimp-my-readme.webapp.io)
+<!--- [![Jame Inw, SYSTEM ENGINEER AND VOIP DEVELOPER](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=SYSTEM%20ENGINEER%20AND%20VOIP%20DEVELOPER&title=Jame%20Inw)](https://pimp-my-readme.webapp.io)
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jame_Inw&fontAlign=80&fontAlignY=40&color=gradient) --->
 
 <!--- 👋 Hi, I’m @JameInw
 - 👀 I’m interested in Docker and K8S
