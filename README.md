@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 # My Skill
 [![My Skills](https://skillicons.dev/icons?i=linux,powershell,vim,neovim,nginx,docker,kubernetes,grafana,github,gitlab,mysql,py,redis,php,go,lua,regex,ai,vscode&perline=5)](https://skillicons.dev)
+
+<!-- ## Connect with me : --->
