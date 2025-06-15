@@ -1,6 +1,6 @@
 ![header](img/header.png)
 
-Hello, my nickname is Jame, currently working at Spinsoft Company, my position is System Engineer. configuration Server and then developed in the IPPBX system. Related systems are Asterisk, Kamailio, docker, rtpengine, ELK stack. Can work as a team well. Learn quickly and be able to withstand hard work. I am constantly improving myself and I am always learning new things.
+Hello, my nickname is Jame. I currently work at Beryl 8 Plus PCL. My position is System Engineer. I configure Genesys Cloud CX and take care of solving customer problems and developing programs. As customers want about Genesys Cloud CX
 
 <!---
 JameInw/JameInw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
